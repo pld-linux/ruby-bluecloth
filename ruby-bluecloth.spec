@@ -5,7 +5,7 @@ Version:	1.0.0
 Release:	1
 License:	GPL
 Group:		Development/Languages
-Source0:	http://www.deveiate.org/code/BlueCloth-1.0.0.tar.bz2
+Source0:	http://www.deveiate.org/code/BlueCloth-%{version}.tar.bz2
 # Source0-md5:	41d385b4ed147630cd922aa50475670b
 URL:		http://www.whytheluckystiff.net/ruby/bluecloth/
 BuildRequires:	rpmbuild(macros) >= 1.277
